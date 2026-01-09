@@ -1,2 +1,2 @@
 import tool1
-tool.main()
+tool1.main()
